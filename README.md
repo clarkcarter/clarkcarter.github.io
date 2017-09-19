@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/clarkcarter/clarkcarter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Clark Carter, I'm an experimenter of code and lover of [adventure](http://www.adventureplaybook.com/about/). I'm also the Operations Manager for Jira Projects at [Atlassian](https://www.atlassian.com/). Here's some apps I've built whilst exploring the wonders of [React](https://facebook.github.io/react/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Background Color Changer](https://github.com/clarkcarter/bg-colour-changer)
+- [Countdown Timer](https://github.com/clarkcarter/timer)
+- [Weather App](https://github.com/clarkcarter/weather)
+- [Multi-Step Form](https://github.com/clarkcarter/multi-step-form)
+- [Todo List](https://github.com/clarkcarter/todo)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clarkcarter/clarkcarter.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And that's that. Feel free to [say hi](clark@clarkcarter.com). 
