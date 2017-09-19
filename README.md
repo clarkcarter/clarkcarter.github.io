@@ -1,7 +1,5 @@
 ## Welcome
 
-![Clark Carter](clarkcarter.github.io/clarkcarter-small.jpg)
-
 My name is Clark Carter, I'm an experimenter of code and lover of [adventure](http://www.adventureplaybook.com/about/). I'm also the Operations Manager for Jira Projects at [Atlassian](https://www.atlassian.com/). Here's some apps I've built whilst exploring the wonders of [React](https://facebook.github.io/react/).
 
 - [Background Color Changer](https://github.com/clarkcarter/bg-colour-changer)
