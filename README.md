@@ -10,4 +10,4 @@ My name is Clark Carter, I'm an experimenter of code and lover of [adventure](ht
 - [Multi-Step Form](https://github.com/clarkcarter/multi-step-form)
 - [Todo List](https://github.com/clarkcarter/todo)
 
-And that's that. Feel free to [say hi](mailto:clark@clarkcarter.com). 
+And that's that. Feel free to [say hi](mailto:clark@clarkcarter.com).
